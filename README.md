@@ -13,4 +13,4 @@ This is the public issue tracker for [3D Lab Viewer](https://viewer.3dlab.id).
 3D Lab Viewer is a desktop and web 3D model viewer supporting STL, OBJ, STEP, 3MF, and GLB formats.
 
 - **Web:** [viewer.3dlab.id](https://viewer.3dlab.id)
-- **Desktop:** [WIP] (Windows)
+- **Desktop:** [https://viewer.3dlab.id/download](https://viewer.3dlab.id/download) (Windows, not signed)
