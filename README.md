@@ -14,3 +14,12 @@ This is the public issue tracker for [3D Lab Viewer](https://viewer.3dlab.id).
 
 - **Web:** [viewer.3dlab.id](https://viewer.3dlab.id)
 - **Desktop:** [https://viewer.3dlab.id/download](https://viewer.3dlab.id/download) (Windows, not signed)
+
+## Support This Project
+
+3D Lab Viewer is free to use. If it's useful to you, sponsoring helps cover the real costs of keeping it running — code signing certificates, the Apple Developer fee ($99/yr), and hosting.
+
+- **GitHub Sponsors:** [github.com/sponsors/Goodsmileduck](https://github.com/sponsors/Goodsmileduck) — 0% platform fee, 100% reaches the project
+- **Ko-fi:** [ko-fi.com/goodsmileduck](https://ko-fi.com/goodsmileduck) — one-off tips, no account needed
+
+Every contribution, big or small, is appreciated. 🙏
