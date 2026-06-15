@@ -1,6 +1,14 @@
-# 3D Lab Viewer — Feedback & Issues
+# 3D Lab Viewer — Downloads & Feedback
 
-This is the public issue tracker for [3D Lab Viewer](https://viewer.3dlab.id).
+This is the public home of [3D Lab Viewer](https://viewer.3dlab.id): release downloads, the issue tracker, and feedback.
+
+## Download
+
+- **Web:** [viewer.3dlab.id](https://viewer.3dlab.id) — runs in the browser, nothing to install
+- **Windows:** [viewer.3dlab.id/download](https://viewer.3dlab.id/download) — installer (not code-signed yet)
+- **Android:** [viewer.3dlab.id/download](https://viewer.3dlab.id/download) — signed APK (sideload)
+
+Release builds are published on this repo's [Releases](https://github.com/Goodsmileduck/viewer.3dlab.id/releases) page.
 
 ## How to Report
 
@@ -10,10 +18,7 @@ This is the public issue tracker for [3D Lab Viewer](https://viewer.3dlab.id).
 
 ## About
 
-3D Lab Viewer is a desktop and web 3D model viewer supporting STL, OBJ, STEP, 3MF, and GLB formats.
-
-- **Web:** [viewer.3dlab.id](https://viewer.3dlab.id)
-- **Desktop:** [https://viewer.3dlab.id/download](https://viewer.3dlab.id/download) (Windows, not signed)
+3D Lab Viewer is a web, desktop, and Android 3D model viewer supporting STL, OBJ, STEP, 3MF, and GLB formats.
 
 ## Support This Project
 
